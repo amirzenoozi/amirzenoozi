@@ -11,7 +11,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <br/>
 
 <!-- Talking about you -->
-About Me:
+🧬 About Me:
 ------
 - 🔭 I’m currently working on **Some Personal Stuff**
 - 🌱 I’m currently learning **React, Selenium**
@@ -24,7 +24,8 @@ About Me:
 
 <br/>
 
-Languages and Tools:
+
+🤹‍♀️ Languages and Tools:
 ------
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/></code>
@@ -47,7 +48,17 @@ Languages and Tools:
 
 <br/>
 
-Github Stats:
+💻 Operating System:
+------
+
+```text
+Windows                Infinite       █████████████████████████   100.0%
+Ubuntu                 Infinite       ████████████░░░░░░░░░░░░░   50.0%
+```
+
+<br/>
+
+🐙 Github Stats:
 ------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirzenoozi&theme=default&show_icons=true)
 
