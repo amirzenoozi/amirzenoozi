@@ -4,6 +4,11 @@
 <!-- Your badges You can use the website to generate badges: https://shields.io/ -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amirzenoozi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosein-duzandeh-zenoozi/)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat&logo=Dribbble&logoColor=white)](https://dribbble.com/amirzenoozi)
+[![Behance](https://img.shields.io/badge/-Behance-0057ff?style=flat&logo=Behance&logoColor=white)](https://www.behance.net/amirzenoozi)
+[![Instagram](https://img.shields.io/badge/-Instagram-f46f30?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/amirzenoozi)
+[![Skype](https://img.shields.io/badge/-Skype-00Aff0?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/d4DR3fGa5y8Q)
+[![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:amir.z.e.noozi72@gmail.com)
 
 &nbsp;
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer 👩‍💻 and support other open source projects.
