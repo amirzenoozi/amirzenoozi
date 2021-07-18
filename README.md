@@ -49,6 +49,12 @@ I describe myself as a passionate developer who loves coding, open source, and t
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/d3js/d3js-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"/></code>
 </p>
 
 <br/>
