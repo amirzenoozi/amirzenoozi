@@ -1,0 +1,18 @@
+name: Virgool Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest my latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "VIRGOOL"
+          feed_list: "https://virgool.io/feed/@amirzenoozi72"
+          commit_message: ":memo: update virgool posts section"
