@@ -72,6 +72,11 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📘 Latest Virgool Posts
 ------
 <!-- VIRGOOL:START -->
+- [ساخت یک Modal Component در Angular](https://virgool.io/@amirzenoozi72/%D8%B3%D8%A7%D8%AE%D8%AA-%DB%8C%DA%A9-modal-component-%D8%AF%D8%B1-angular-lnlvvqrballk)
+- [هرکاری یه اسکریپت پایتون داره - موزیک پلیر](https://virgool.io/@amirzenoozi72/music-player-with-python-and-tkinter-dmzrg8gtwhlk)
+- [بررسی رابط کاربری و تجربه کاربری کُمُدا](https://virgool.io/@amirzenoozi72/komodaa-ui-ux-review-download-new-design-ncjefimpsicq)
+- [برخی از بهترین کانال‌های فارسی و انگلیسی یوتیوب](https://virgool.io/@amirzenoozi72/some-of-the-favorite-persian-and-english-youtube-channels-fgef0gw4eocz)
+- [دکمه‌های نوشتاری در طراحی رابط کاربری](https://virgool.io/@amirzenoozi72/buttons-in-user-experience-i3asrdwf7rlj)
 <!-- VIRGOOL:END -->
 
 
