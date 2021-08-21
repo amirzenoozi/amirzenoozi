@@ -59,6 +59,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 </p>
 
 <br/>
+
 📕 Latest Blog Posts
 ------
 <!-- BLOG-POST-LIST:START -->
