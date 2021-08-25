@@ -63,6 +63,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📕 Latest Medium Posts
 ------
 <!-- BLOG-POST-LIST:START -->
+- [ZSH Config On Windows Terminal Application](https://amirzenoozi.medium.com/zsh-config-on-windows-terminal-application-40a2bd213d6d?source=rss-1db5d7e2f442------2)
 - [How To Have Angular Environment Structure in React Applications Without CRA](https://amirzenoozi.medium.com/how-to-have-angular-environment-structure-in-react-applications-without-cra-e970443e9068?source=rss-1db5d7e2f442------2)
 - [Make a simple URL shortener app with Node.js & Express.js + Rest API](https://amirzenoozi.medium.com/make-a-simple-url-shortener-app-with-node-js-express-js-rest-api-5cce40413d2b?source=rss-1db5d7e2f442------2)
 <!-- BLOG-POST-LIST:END -->
