@@ -2,7 +2,7 @@ name: Virgool Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "VIRGOOL"
           feed_list: "https://virgool.io/feed/@amirzenoozi72"
-          commit_message: ":memo: update virgool posts section"
+          commit_message: ":memo: update virgool posts list"
