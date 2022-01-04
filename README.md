@@ -57,6 +57,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/></code>
 </p>
 
 <br/>
