@@ -91,7 +91,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 
 <br/>
 
-📘 Latest Behance Project
+👨🏻‍🎨 Latest Behance Project
 ------
 <!-- BEHANCE:START -->
 - [Komodaa App](https://www.behance.net/gallery/88038177/Komodaa-App)
