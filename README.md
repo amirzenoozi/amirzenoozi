@@ -77,6 +77,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📘 Latest Virgool Posts
 ------
 <!-- VIRGOOL:START -->
+- [مدیریت بهتر و قانونمندتر با استفاده از GitHooks](https://virgool.io/@amirzenoozi72/using-githooks-to-manage-your-project-programmatically-fg6rqdjebux9)
 - [با کمک هوش مصنوعی اثر هنری تولید کن](https://virgool.io/@amirzenoozi72/make-a-mind-blowing-artwork-by-using-ai-and-text-ymh1zyjiknbl)
 - [نمایش خودکار پست‌های ویرگول در اکانت گیت‌هاب](https://virgool.io/@amirzenoozi72/how-to-make-an-action-to-add-your-virgool-article-to-github-profile-opeq0ltpzonx)
 - [ساخت یک Modal Component در Angular](https://virgool.io/@amirzenoozi72/%D8%B3%D8%A7%D8%AE%D8%AA-%DB%8C%DA%A9-modal-component-%D8%AF%D8%B1-angular-lnlvvqrballk)
@@ -86,7 +87,6 @@ I describe myself as a passionate developer who loves coding, open source, and t
 - [دکمه‌های نوشتاری در طراحی رابط کاربری](https://virgool.io/@amirzenoozi72/buttons-in-user-experience-i3asrdwf7rlj)
 - [ساخت یک افزونه برای Adobe XD](https://virgool.io/@amirzenoozi72/create-new-plugin-for-adobe-xd-hhzbu2bpo9vj)
 - [آنالیز و تحلیل محصول / رقبا در تحقیقات کاربر](https://virgool.io/@amirzenoozi72/competitor-analysis-for-ux-designer-ppvpesvm4aay)
-- [شخصی سازی پخش کننده صوتی با Js](https://virgool.io/@amirzenoozi72/create-custom-music-player-with-js-and-canvas-m7pohorbu3fr)
 <!-- VIRGOOL:END -->
 
 <br/>
