@@ -10,6 +10,7 @@
 [![Skype](https://img.shields.io/badge/-Skype-00Aff0?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/d4DR3fGa5y8Q)
 [![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:amir.z.e.noozi72@gmail.com)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/amirzenoozi)
+![](https://komarev.com/ghpvc/?username=amirzenoozi&color=blueviolet&style=flat&label=Profile+Views)
 
 &nbsp;
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer 👩‍💻 and support other open source projects.
