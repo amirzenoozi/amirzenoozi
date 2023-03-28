@@ -20,8 +20,8 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <!-- Talking about you -->
 🧬 About Me:
 ------
-- 🔭 I’m currently working on **Some Personal Stuff**
-- 🌱 I’m currently learning **React, Selenium**
+- 🔭 I’m currently working on **Finding Ph.D. Postion**
+- 🌱 I’m currently learning **Javascript, Python, OpenCV**
 - 💬 Ask me about **React, Python, Angular, Webpack, Gulp, WebSocket, Crawlers**
 - 👯 I’m looking to collaborate on [Morph Design React Wrapper](https://github.com/amirzenoozi/react-morph-design)
 - 👨‍💻 All of my projects are available at [RedLink](https://redl.ink/amirzenoozi/profile)
@@ -61,6 +61,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/i18next/i18next-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/></code>
 </p>
 
 <br/>
