@@ -69,10 +69,10 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📕 Latest Medium Posts
 ------
 <!-- BLOG-POST-LIST:START -->
-- ![Find Dominant Common Color With Telegram Bot](https://amirzenoozi.medium.com/find-dominant-common-color-with-telegram-bot-b5bfad2b8fe8?source=rss-1db5d7e2f442------2)
-- ![ZSH Config On Windows Terminal Application](https://amirzenoozi.medium.com/zsh-config-on-windows-terminal-application-40a2bd213d6d?source=rss-1db5d7e2f442------2)
-- ![How To Have Angular Environment Structure in React Applications Without CRA](https://amirzenoozi.medium.com/how-to-have-angular-environment-structure-in-react-applications-without-cra-e970443e9068?source=rss-1db5d7e2f442------2)
-- ![Make a simple URL shortener app with Node.js &amp; Express.js + Rest API](https://amirzenoozi.medium.com/make-a-simple-url-shortener-app-with-node-js-express-js-rest-api-5cce40413d2b?source=rss-1db5d7e2f442------2)
+- [Find Dominant Common Color With Telegram Bot](https://amirzenoozi.medium.com/find-dominant-common-color-with-telegram-bot-b5bfad2b8fe8?source=rss-1db5d7e2f442------2)
+- [ZSH Config On Windows Terminal Application](https://amirzenoozi.medium.com/zsh-config-on-windows-terminal-application-40a2bd213d6d?source=rss-1db5d7e2f442------2)
+- [How To Have Angular Environment Structure in React Applications Without CRA](https://amirzenoozi.medium.com/how-to-have-angular-environment-structure-in-react-applications-without-cra-e970443e9068?source=rss-1db5d7e2f442------2)
+- [Make a simple URL shortener app with Node.js &amp; Express.js + Rest API](https://amirzenoozi.medium.com/make-a-simple-url-shortener-app-with-node-js-express-js-rest-api-5cce40413d2b?source=rss-1db5d7e2f442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
@@ -80,16 +80,16 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📘 Latest Virgool Posts
 ------
 <!-- VIRGOOL:START -->
-- ![مدیریت بهتر و قانونمندتر با استفاده از GitHooks](https://virgool.io/@amirzenoozi72/using-githooks-to-manage-your-project-programmatically-fg6rqdjebux9)
-- ![با کمک هوش مصنوعی اثر هنری تولید کن](https://virgool.io/@amirzenoozi72/make-a-mind-blowing-artwork-by-using-ai-and-text-ymh1zyjiknbl)
-- ![نمایش خودکار پست‌های ویرگول در اکانت گیت‌هاب](https://virgool.io/@amirzenoozi72/how-to-make-an-action-to-add-your-virgool-article-to-github-profile-opeq0ltpzonx)
-- ![ساخت یک Modal Component در Angular](https://virgool.io/@amirzenoozi72/%D8%B3%D8%A7%D8%AE%D8%AA-%DB%8C%DA%A9-modal-component-%D8%AF%D8%B1-angular-lnlvvqrballk)
-- ![هرکاری یه اسکریپت پایتون داره - موزیک پلیر](https://virgool.io/coderlife/music-player-with-python-and-tkinter-dmzrg8gtwhlk)
-- ![بررسی رابط کاربری و تجربه کاربری کُمُدا](https://virgool.io/DesignersCommunity/komodaa-ui-ux-review-download-new-design-ncjefimpsicq)
-- ![برخی از بهترین کانال‌های فارسی و انگلیسی یوتیوب](https://virgool.io/@amirzenoozi72/some-of-the-favorite-persian-and-english-youtube-channels-fgef0gw4eocz)
-- ![دکمه‌های نوشتاری در طراحی رابط کاربری](https://virgool.io/@amirzenoozi72/buttons-in-user-experience-i3asrdwf7rlj)
-- ![ساخت یک افزونه برای Adobe XD](https://virgool.io/@amirzenoozi72/create-new-plugin-for-adobe-xd-hhzbu2bpo9vj)
-- ![آنالیز و تحلیل محصول / رقبا در تحقیقات کاربر](https://virgool.io/DesignersCommunity/competitor-analysis-for-ux-designer-ppvpesvm4aay)
+- [مدیریت بهتر و قانونمندتر با استفاده از GitHooks](https://virgool.io/@amirzenoozi72/using-githooks-to-manage-your-project-programmatically-fg6rqdjebux9)
+- [با کمک هوش مصنوعی اثر هنری تولید کن](https://virgool.io/@amirzenoozi72/make-a-mind-blowing-artwork-by-using-ai-and-text-ymh1zyjiknbl)
+- [نمایش خودکار پست‌های ویرگول در اکانت گیت‌هاب](https://virgool.io/@amirzenoozi72/how-to-make-an-action-to-add-your-virgool-article-to-github-profile-opeq0ltpzonx)
+- [ساخت یک Modal Component در Angular](https://virgool.io/@amirzenoozi72/%D8%B3%D8%A7%D8%AE%D8%AA-%DB%8C%DA%A9-modal-component-%D8%AF%D8%B1-angular-lnlvvqrballk)
+- [هرکاری یه اسکریپت پایتون داره - موزیک پلیر](https://virgool.io/coderlife/music-player-with-python-and-tkinter-dmzrg8gtwhlk)
+- [بررسی رابط کاربری و تجربه کاربری کُمُدا](https://virgool.io/DesignersCommunity/komodaa-ui-ux-review-download-new-design-ncjefimpsicq)
+- [برخی از بهترین کانال‌های فارسی و انگلیسی یوتیوب](https://virgool.io/@amirzenoozi72/some-of-the-favorite-persian-and-english-youtube-channels-fgef0gw4eocz)
+- [دکمه‌های نوشتاری در طراحی رابط کاربری](https://virgool.io/@amirzenoozi72/buttons-in-user-experience-i3asrdwf7rlj)
+- [ساخت یک افزونه برای Adobe XD](https://virgool.io/@amirzenoozi72/create-new-plugin-for-adobe-xd-hhzbu2bpo9vj)
+- [آنالیز و تحلیل محصول / رقبا در تحقیقات کاربر](https://virgool.io/DesignersCommunity/competitor-analysis-for-ux-designer-ppvpesvm4aay)
 <!-- VIRGOOL:END -->
 
 <br/>
@@ -97,8 +97,8 @@ I describe myself as a passionate developer who loves coding, open source, and t
 👨🏻‍🎨 Latest Behance Project
 ------
 <!-- BEHANCE:START -->
-- ![Komodaa App](https://www.behance.net/gallery/88038177/Komodaa-App)
-- ![Visbed WebSite](https://www.behance.net/gallery/86175105/Visbed-WebSite)
+- [Komodaa App](https://www.behance.net/gallery/88038177/Komodaa-App)
+- [Visbed WebSite](https://www.behance.net/gallery/86175105/Visbed-WebSite)
 <!-- BEHANCE:END -->
 
 <br/>
