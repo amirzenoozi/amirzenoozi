@@ -62,6 +62,8 @@ I describe myself as a passionate developer who loves coding, open source, and t
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/i18next/i18next-ar21.svg"/></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"/></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-ar21.svg"/></code>
 </p>
 
 <br/>
