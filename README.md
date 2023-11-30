@@ -13,21 +13,26 @@
 ![](https://komarev.com/ghpvc/?username=amirzenoozi&color=blueviolet&style=flat&label=Profile+Views)
 
 &nbsp;
-I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer 👩‍💻 and support other open source projects.
+I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, grow as a developer 👩‍💻 and support other open-source projects.
+
+<br/>
+
+☕ Buy me a coffee:
+------
+<a href="https://www.buymeacoffee.com/amirzenoozi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amirzenoozi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <br/>
 
 <!-- Talking about you -->
 🧬 About Me:
 ------
-- 🔭 I’m currently working on **Finding Ph.D. Postion**
+- 🔭 I’m currently Looking for **Front-end Developer in EU**
 - 🌱 I’m currently learning **Javascript, Python, OpenCV**
 - 💬 Ask me about **React, Python, Angular, Webpack, Gulp, WebSocket, Crawlers**
-- 👯 I’m looking to collaborate on [Morph Design React Wrapper](https://github.com/amirzenoozi/react-morph-design)
 - 👨‍💻 All of my projects are available at [RedLink](https://redl.ink/amirzenoozi/profile)
 - 📝 I regularly write articles on [Virgool.Io](https://virgool.io/@amirzenoozi72)
 - 📫 How to reach me **amirzenoozi72@gmail.com**
-- ⚡ Fun fact **I'm fall in love with Crawlers 🤪**
+- ⚡ Fun fact **I fall in love with Crawlers 🤪**
 
 <br/>
 
