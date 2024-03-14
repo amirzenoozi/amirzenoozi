@@ -76,6 +76,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📕 Latest Medium Posts
 ------
 <!-- BLOG-POST-LIST:START -->
+- [Develop Your Personal MidJourney](https://amirzenoozi.medium.com/develop-your-personal-midjourney-38630f475480?source=rss-1db5d7e2f442------2)
 - [Journey Through the Interview Realm: A Senior Developer’s Insight](https://amirzenoozi.medium.com/journey-through-the-interview-realm-a-senior-developers-insight-4291282af0b7?source=rss-1db5d7e2f442------2)
 - [Decoding Persian News: Unleashing the Power of Analytics](https://amirzenoozi.medium.com/decoding-persian-news-unleashing-the-power-of-analytics-86868be4756b?source=rss-1db5d7e2f442------2)
 - [Web Developers Roadmap in 2023: A Guide to the Latest Trends and Technologies](https://amirzenoozi.medium.com/web-developers-roadmap-in-2023-a-guide-to-the-latest-trends-and-technologies-2c6ec74f1d9d?source=rss-1db5d7e2f442------2)
