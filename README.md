@@ -76,6 +76,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📕 Latest Medium Posts
 ------
 <!-- BLOG-POST-LIST:START -->
+- [Think and Document: Unlock the Secret to Passing Technical Interviews + Template](https://amirzenoozi.medium.com/think-and-document-unlock-the-secret-to-passing-technical-interviews-template-712a7d0fac4c?source=rss-1db5d7e2f442------2)
 - [Top 5 HR Interview Questions + Answers](https://amirzenoozi.medium.com/top-5-hr-interview-questions-answers-4bba93a21c8e?source=rss-1db5d7e2f442------2)
 - [Develop Your Personal MidJourney](https://amirzenoozi.medium.com/develop-your-personal-midjourney-38630f475480?source=rss-1db5d7e2f442------2)
 - [Journey Through the Interview Realm: A Senior Developer’s Insight](https://amirzenoozi.medium.com/journey-through-the-interview-realm-a-senior-developers-insight-4291282af0b7?source=rss-1db5d7e2f442------2)
