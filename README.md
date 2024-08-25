@@ -26,11 +26,11 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <!-- Talking about you -->
 🧬 About Me:
 ------
-- 🔭 I’m currently Looking for **Front-end Developer in EU**
-- 🌱 I’m currently learning **Javascript, Python, OpenCV**
-- 💬 Ask me about **React, Python, Angular, Webpack, Gulp, WebSocket, Crawlers**
+- 🔭 I’m currently Looking for **JavaScript Engineer in EU**
+- 🌱 I’m currently learning **AWS Toolkit, Python, TypeScript**
+- 💬 Ask me about **React, Python, Angular, Webpack, WebSocket, Crawlers**
 - 👨‍💻 All of my projects are available at [RedLink](https://redl.ink/amirzenoozi/profile)
-- 📝 I regularly write articles on [Virgool.Io](https://virgool.io/@amirzenoozi72)
+- 📝 I regularly write articles on [Medium](https://amirzenoozi.medium.com/)
 - 📫 How to reach me **amirzenoozi72@gmail.com**
 - ⚡ Fun fact **I fall in love with Crawlers 🤪**
 
