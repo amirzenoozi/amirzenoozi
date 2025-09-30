@@ -76,6 +76,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📕 Latest Medium Posts
 ------
 <!-- BLOG-POST-LIST:START -->
+- [AI vs. Human: Recreating Social Media Posts with Banana AI](https://amirzenoozi.medium.com/ai-vs-human-recreating-social-media-posts-with-banana-ai-0ac0bc5abfd8?source=rss-1db5d7e2f442------2)
 - [Think and Document: Unlock the Secret to Passing Technical Interviews + Template](https://amirzenoozi.medium.com/think-and-document-unlock-the-secret-to-passing-technical-interviews-template-712a7d0fac4c?source=rss-1db5d7e2f442------2)
 - [Top 5 HR Interview Questions + Answers](https://amirzenoozi.medium.com/top-5-hr-interview-questions-answers-4bba93a21c8e?source=rss-1db5d7e2f442------2)
 - [Develop Your Personal MidJourney](https://amirzenoozi.medium.com/develop-your-personal-midjourney-38630f475480?source=rss-1db5d7e2f442------2)
@@ -85,7 +86,6 @@ I describe myself as a passionate developer who loves coding, open source, and t
 - [Find Dominant Common Color With Telegram Bot](https://amirzenoozi.medium.com/find-dominant-common-color-with-telegram-bot-b5bfad2b8fe8?source=rss-1db5d7e2f442------2)
 - [ZSH Config On Windows Terminal Application](https://amirzenoozi.medium.com/zsh-config-on-windows-terminal-application-40a2bd213d6d?source=rss-1db5d7e2f442------2)
 - [How To Have Angular Environment Structure in React Applications Without CRA](https://amirzenoozi.medium.com/how-to-have-angular-environment-structure-in-react-applications-without-cra-e970443e9068?source=rss-1db5d7e2f442------2)
-- [Make a simple URL shortener app with Node.js &amp; Express.js + Rest API](https://amirzenoozi.medium.com/make-a-simple-url-shortener-app-with-node-js-express-js-rest-api-5cce40413d2b?source=rss-1db5d7e2f442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
