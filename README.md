@@ -76,16 +76,16 @@ I describe myself as a passionate developer who loves coding, open source, and t
 📕 Latest Medium Posts
 ------
 <!-- BLOG-POST-LIST:START -->
+- [From Code to Cash: Building a Profitable Telegram Bot One Step at a Time](https://python.plainenglish.io/from-code-to-cash-building-a-profitable-telegram-bot-one-step-at-a-time-6fe7d5ab047b?source=rss-1db5d7e2f442------2)
 - [AI vs. Human: Recreating Social Media Posts with Banana AI](https://amirzenoozi.medium.com/ai-vs-human-recreating-social-media-posts-with-banana-ai-0ac0bc5abfd8?source=rss-1db5d7e2f442------2)
 - [Think and Document: Unlock the Secret to Passing Technical Interviews + Template](https://amirzenoozi.medium.com/think-and-document-unlock-the-secret-to-passing-technical-interviews-template-712a7d0fac4c?source=rss-1db5d7e2f442------2)
 - [Top 5 HR Interview Questions + Answers](https://amirzenoozi.medium.com/top-5-hr-interview-questions-answers-4bba93a21c8e?source=rss-1db5d7e2f442------2)
-- [Develop Your Personal MidJourney](https://amirzenoozi.medium.com/develop-your-personal-midjourney-38630f475480?source=rss-1db5d7e2f442------2)
+- [Develop Your Personal MidJourney](https://python.plainenglish.io/develop-your-personal-midjourney-38630f475480?source=rss-1db5d7e2f442------2)
 - [Journey Through the Interview Realm: A Senior Developer’s Insight](https://amirzenoozi.medium.com/journey-through-the-interview-realm-a-senior-developers-insight-4291282af0b7?source=rss-1db5d7e2f442------2)
 - [Decoding Persian News: Unleashing the Power of Analytics](https://amirzenoozi.medium.com/decoding-persian-news-unleashing-the-power-of-analytics-86868be4756b?source=rss-1db5d7e2f442------2)
 - [Web Developers Roadmap in 2023: A Guide to the Latest Trends and Technologies](https://amirzenoozi.medium.com/web-developers-roadmap-in-2023-a-guide-to-the-latest-trends-and-technologies-2c6ec74f1d9d?source=rss-1db5d7e2f442------2)
-- [Find Dominant Common Color With Telegram Bot](https://amirzenoozi.medium.com/find-dominant-common-color-with-telegram-bot-b5bfad2b8fe8?source=rss-1db5d7e2f442------2)
+- [Find Dominant Common Color With Telegram Bot](https://python.plainenglish.io/find-dominant-common-color-with-telegram-bot-b5bfad2b8fe8?source=rss-1db5d7e2f442------2)
 - [ZSH Config On Windows Terminal Application](https://amirzenoozi.medium.com/zsh-config-on-windows-terminal-application-40a2bd213d6d?source=rss-1db5d7e2f442------2)
-- [How To Have Angular Environment Structure in React Applications Without CRA](https://amirzenoozi.medium.com/how-to-have-angular-environment-structure-in-react-applications-without-cra-e970443e9068?source=rss-1db5d7e2f442------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
